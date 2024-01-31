@@ -6,5 +6,3 @@ G
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-S
-#CT_Templete/src/main/java/Main.java,7/3/7322e5f070ef13147689b5718ed19d8cc207cab8
