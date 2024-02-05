@@ -1,8 +1,7 @@
 
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(™½ÂÑÿÿÿÿÿ8„î¹şÕ1
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¯©şÿÿÿÿ8î¹şÕ1
-G	java:S106"+Replace this use of System.out by a logger.(ÚÔÖ­8î¹şÕ1
-
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(™½ÂÑÿÿÿÿÿ8î¹şÕ1
-
-java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8‘î¹şÕ1
+g	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(™½ÂÑÿÿÿÿÿ8ÎƒÔÆ×1
+v
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‘ÙäÚ8åƒÔÆ×1
+x
+java:S1450"VRemove the "edgeNum" field and declare it as a local variable in the relevant methods.(ÏôÔ‰ùÿÿÿÿ8Ÿ”ŞÆ×1
+G	java:S106V"+Replace this use of System.out by a logger.(¥ÁÇ—8ìƒÔÆ×1
